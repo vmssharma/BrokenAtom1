@@ -1,0 +1,7 @@
+-- CREATE TABLE brokenPeople (
+--     id INT8 PRIMARY KEY,
+--     brokenName STRING,
+--     collegeName STRING,
+--     fresher BOOL,
+--     brokenRole STRING,
+-- );
